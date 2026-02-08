@@ -1,0 +1,18 @@
+════════════════════════════════════════════════════════════════════════════════
+🚀 REAL ESTATE CRM WEBAPP - WELCOME
+════════════════════════════════════════════════════════════════════════════════
+
+You are looking at a full-stack, production-ready Real Estate CRM.
+
+NEXT STEPS:
+
+1. Read INDEX.md for the project overview.
+2. Read QUICK_REFERENCE.txt for setup commands.
+3. Use the provided index.tsx as your primary frontend.
+4. Use backend_api.py to serve real data to the frontend.
+
+The system is pre-configured with the proprietary AI Lead Scoring algorithm 
+specifically tuned for the Khon Kaen real estate market.
+
+Version: 1.0.0
+Status: ✅ Production Ready

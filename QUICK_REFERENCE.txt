@@ -1,0 +1,36 @@
+════════════════════════════════════════════════════════════════════════════════
+🏠 REAL ESTATE CRM - QUICK REFERENCE
+════════════════════════════════════════════════════════════════════════════════
+
+⚡ QUICK START COMMANDS
+
+1. Backend (FastAPI):
+   pip install -r requirements.txt
+   python backend_api.py
+
+2. Frontend (Local Development):
+   npm run dev
+
+3. API Documentation:
+   Visit http://localhost:8000/docs after starting backend.
+
+════════════════════════════════════════════════════════════════════════════════
+🧠 AI SCORING ALGORITHM (Proprietary 4-Factor Engine)
+
+1. PRICE (30 pts): Accuracy vs Market Avg
+2. DAYS (25 pts): Owner Pain Indicator (>2 years = 25pts)
+3. DEMAND (20 pts): Property Type Popularity
+4. STATUS (25 pts): Active Unsold Opportunity
+
+TOTAL: 100 Points
+PRIORITY: Critical (80+) | High (60+) | Medium (40+) | Low (<40)
+
+════════════════════════════════════════════════════════════════════════════════
+📂 DIRECTORY STRUCTURE
+
+/                      Root directory
+├── INDEX.md            Main overview
+├── index.tsx          Frontend logic
+├── backend_api.py     Backend logic
+├── properties_data.csv Dataset (9,155 records)
+└── metadata.json      App configuration

@@ -1,0 +1,7 @@
+{
+  "description": "Production-ready Real Estate CRM with AI lead scoring, market analytics dashboard, and Gemini-powered sales intelligence.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "name": "K-CRM AI Real Estate"
+}
